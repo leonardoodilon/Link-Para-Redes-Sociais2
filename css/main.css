@@ -43,7 +43,7 @@ section ul {
     margin-top: 4rem;
     display: grid;
     justify-items: center;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 4rem;
     border-radius: 50%;
 }
@@ -61,7 +61,6 @@ section ul li {
     align-items: center;
 
     position: relative;
-}
 }
 
 section ul li svg {
